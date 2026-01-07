@@ -39,4 +39,7 @@
 ### Console Apps (01-14)
 Run individual files via the .NET CLI:
 ```bash
+GUI App (15)
+
+Open the solution in Visual Studio and launch the debugger (F5).
 dotnet run
